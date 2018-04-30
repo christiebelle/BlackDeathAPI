@@ -11,4 +11,4 @@ Insert the seeds file to the mongo database
 
 Run PORT=3001 node bin/www
 
-Then cross over into the React App and run npm start
+Then cross over into the React App and run NPM start
