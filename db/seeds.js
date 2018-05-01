@@ -34,7 +34,7 @@ db.facts.insert([{
 },
 {
 	title: "Who/What were Plague doctors?",
-	image: "bd - image6.jpg",
+	image: "bd - image6.png",
 	fact: "Medieval doctors believed the Black Death was caused by the movement of the planets.",
 	information: "A plague doctor was a medic hired by cities to treat victims of the plague. Most of the time though, they were not trained professionals, lacked in knowledge and rarely cured any of their patients. They would attempt to treat victims by putting frogs or leeches on the swellings, or by burning herbs in the room, or making victims take baths of rosewater or vinegar."
 },
